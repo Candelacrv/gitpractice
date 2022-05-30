@@ -109,6 +109,10 @@ mv nombredelarchivoantiguo.txt nombrenuevo.txt
 * Esto tambien sirve para carpetas.
 * Para crear ficheros ocultos tengo que ponerle el prefijo al nombre del fichero : .
 * Así podremos verlo solo cuando hacemos ls -a, y no cuando hacemos ls.
+```bash
+1. code . 
+```
+* Le decimos que nos abra visual studio code en la carpeta en la que estamos
 
 
 

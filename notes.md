@@ -113,6 +113,11 @@ mv nombredelarchivoantiguo.txt nombrenuevo.txt
 1. code . 
 ```
 * Le decimos que nos abra visual studio code en la carpeta en la que estamos
+```bash
+* Vamos al repositorio que queremos copiar o descargar
+* Copiamos la URL
+1. git clone URL
+
 
 
 
